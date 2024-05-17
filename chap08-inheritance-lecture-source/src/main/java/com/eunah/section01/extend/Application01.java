@@ -65,6 +65,16 @@ public class Application01 {
         test.run();
         test.soundHorn();
 
+        // RacingCar 인스턴스 생성
+        System.out.println("=========================");
+        RacingCar racingCar = new RacingCar();
+        racingCar.run();
+        racingCar.soundHorn();
+        racingCar.stop();
+
+        // FireCar fireCar2 = racingCar();
+
+
 
     }
 }

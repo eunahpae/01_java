@@ -1,6 +1,6 @@
 package main.java.com.eunah.section01.extend;
 
-public class Car {
+public class Car { // Car 라는 상위클래스(부모)
 
     private boolean runningStatus;
 
