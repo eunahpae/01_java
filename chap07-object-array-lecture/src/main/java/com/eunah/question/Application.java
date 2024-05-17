@@ -43,6 +43,7 @@ public class Application {
                 }else {
                     break;
                 }
+
                 case 2 : loginService.signUp(); break;
                 case 9 :
                     System.out.println("프로그램을 종료합니다.");return;
@@ -50,9 +51,6 @@ public class Application {
                     System.out.println("잘못된 번호를 입력 하셨습니다.");
                     break;
             }
-
-
-
         }
     }
 }

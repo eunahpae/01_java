@@ -16,7 +16,7 @@ public class LoginRepository {
 
     }
 
-    public int login(main.java.com.ohgiraffers.question.UserDTO userDTO) {
+    public int login(main.java.com.eunah.question.UserDTO userDTO) {
 
         if (users[0] == null){
             System.out.println("등록된 회원이 없습니다.");
