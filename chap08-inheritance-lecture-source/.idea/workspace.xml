@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928d3e24-5207-4129-8ca1-6b217560ce38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap03-method-and-api/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-method-and-api/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-method-and-api/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap03-method-and-api/chap03-method-and-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section01/selfStudy/car2/Car2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section01/selfStudy/car2/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "eunahpae"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eunahpae&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/eunahpae/01_java.git",
-    "accountId": "4c171c42-961f-40b8-865d-062429b8600f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eunahpae/01_java.git&quot;,
+    &quot;accountId&quot;: &quot;4c171c42-961f-40b8-865d-062429b8600f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gZc1faKHxzULXsKnoHy5FPihHL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -59,7 +54,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/songpa_PAE/study",
+    "last_opened_file_path": "C:/songpa_PAE/01_java/chap08-inheritance-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -119,6 +114,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715908326956</updated>
       <workItem from="1715908328688" duration="14886000" />
+      <workItem from="1715931406380" duration="1436000" />
     </task>
     <servers />
   </component>
