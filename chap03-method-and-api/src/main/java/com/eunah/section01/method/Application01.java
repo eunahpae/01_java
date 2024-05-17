@@ -12,7 +12,8 @@ public class Application01 {
 
         // 아래 작성한 methodA 메소드를 호출
         /* static이 있는 메소드에서 static이 없는 메소드를 호출할 때 new 로 클래스 초기화 필수,
-           methodA에는 static이 없기때문에 클래스초기화 없이 바로 호출 가능 */
+           main 메소드에 static이 있고, methodA에는 static이 없기 때문에 new 연산자로 객체 생성 후 호출
+           static이 있는 메소드에서 static이 있는 메소드 호출은 바로 가능 */
         Application01 app = new Application01();
         app.methodA();
 
@@ -33,7 +34,6 @@ public class Application01 {
     public void methodB() {
 
         System.out.println("methodB 호출");
-
         System.out.println("methodB 종료");
 
     }

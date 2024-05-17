@@ -7,17 +7,16 @@ public class Application03 {
     public static void main(String[] args) {
 
         /*
-         * 변수의 종류
-         *
-         * 1. 지역 변수
-         * 2. 매개 변수
-         * 3. 전역 변수 (필드)
-         * 4. 클래스(static) 변수
+           변수의 종류
+
+           1. 지역 변수
+           2. 매개 변수
+           3. 전역 변수 (필드)
+           4. 클래스(static) 변수
          */
 
         int a = 10;
         int b = 20;    // 지역 변수
-
 
         Application03 app3 = new Application03();
         app3.testMethod(38);
@@ -49,6 +48,5 @@ public class Application03 {
         System.out.println("당신의 나이는 " + age + "입니다.");
 
     }
-
 
 }

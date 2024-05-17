@@ -4,7 +4,7 @@ public class Application04 {
     public static void main(String[] args) {
 
         /*
-         * 여러 개의 전달인자를 이용한 메소드 호출 테스트
+           여러 개의 전달인자를 이용한 메소드 호출 테스트
          */
 
         Application04 app4 = new Application04();
@@ -19,7 +19,7 @@ public class Application04 {
 
     }
 
-    // 아래처럼 주석을 달면, 해당 메소드를 호출할때 아래 내용을 확인할 수 있다.
+    // 아래처럼 주석을 달면(/** */, 해당 메소드를 호출할때 아래 내용을 확인할 수 있다.
 
     /**
      * 이름과 나이와 성별을 전달 받아 한 번에 출력해주는 기능을 제공

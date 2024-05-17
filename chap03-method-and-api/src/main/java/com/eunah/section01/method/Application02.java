@@ -16,8 +16,6 @@ public class Application02 {
     public void methodA() {
 
         System.out.println("methodA 호출");
-
-
         System.out.println("methodA 종료");
 
     }
@@ -25,7 +23,6 @@ public class Application02 {
     public void methodB() {
 
         System.out.println("methodB 호출");
-
         System.out.println("methodB 종료");
 
     }
