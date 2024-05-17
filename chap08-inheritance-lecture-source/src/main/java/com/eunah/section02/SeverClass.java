@@ -24,6 +24,10 @@ public class SeverClass extends SuperClass {
     /*    @Override
     public final void finalMethod(){}*/
 
+
+
+
+
     @Override
     public void protectedMethod() {
 

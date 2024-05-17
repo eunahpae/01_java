@@ -4,9 +4,9 @@ public class Application02 {
     public static void main(String[] args) {
 
         /*
-         * 논리 연산자의 우선순위
-         * && : 11순위
-         * || : 12순위
+           논리 연산자의 우선순위
+           && : 11순위
+           || : 12순위
          */
 
         int num = 55;
@@ -19,7 +19,6 @@ public class Application02 {
 
         char ch2 = 'g';
         System.out.println("영어 대문자 확인 : " + (ch2 >= 'A' && ch2 <= 'Z'));
-
 
         // 영문자 y 확인
         char ch3 = 'Y';
@@ -34,7 +33,6 @@ public class Application02 {
         char ch6 = 'F';
         System.out.println("영문자인지 문자비교 확인 : " + ((ch6 >= 'A' && ch6 <= 'Z') || (ch6 >= 'a' && ch6 <= 'z')));
         System.out.println("영문자인지 아스키코드 숫자 확인 : " + ((ch6 >= 65 && ch6 <= 90) || (ch6 >= 97 && ch6 <= 122)));
-
 
     }
 }
