@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6c6a8f-5dd1-49b1-8b92-f72fd575765c" name="Changes" comment="0520">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/GoogleAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/KakaoAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/NaverAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/SnsAuth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/dto/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section03/interfaceImplements/Application01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section03/interfaceImplements/Application01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716171546328</updated>
       <workItem from="1716171547364" duration="10639000" />
-      <workItem from="1716185017635" duration="583000" />
+      <workItem from="1716185017635" duration="3796000" />
     </task>
     <task id="LOCAL-00001" summary="0520">
       <option name="closed" value="true" />
@@ -174,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716172203449</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="0520">
+      <option name="closed" value="true" />
+      <created>1716185780434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716185780434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

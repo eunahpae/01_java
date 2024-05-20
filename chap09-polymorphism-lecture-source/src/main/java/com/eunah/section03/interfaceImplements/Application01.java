@@ -3,7 +3,7 @@ package main.java.com.eunah.section03.interfaceImplements;
 public class Application01 {
     public static void main(String[] args) {
 
-       /* 인턴페이스
+       /* 인터페이스
           여기서 다루게 되는 인터페이스는 자바의 클래스와 유사한 형태지만 추상메소드와 상수 필드만 가질 수 있는 클래스의 변형체를 말한다.
 
           사용목적)
