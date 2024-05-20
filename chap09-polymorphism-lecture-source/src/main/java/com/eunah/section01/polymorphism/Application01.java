@@ -98,8 +98,9 @@ public class Application01 {
         Animal animal4 = (Animal) new Rabbit();
 
         // 다운 캐스팅
+        // 부모 타입으로 올렸던 걸 다시 내릴 때 사용
         Rabbit rabbit1 = (Rabbit) new Animal();
-        Rabbit rabbit2 = (Rabbit) animal4; // 부모 타입으로 올렸던 걸 다시 내릴 때 사용
+        Rabbit rabbit2 = (Rabbit) animal4;
 
     }
 }
