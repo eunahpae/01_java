@@ -1,4 +1,4 @@
-package main.java.com.eunah.understand.dto;
+package main.java.com.eunah.section04.understand.dto;
 
 public class MemberDTO {
 

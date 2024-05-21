@@ -1,6 +1,6 @@
 package main.java.com.eunah.section04.understand.auth;
 
-import main.java.com.eunah.understand.dto.MemberDTO;
+import main.java.com.eunah.section04.understand.dto.MemberDTO;
 
 public interface SnsAuth {
 

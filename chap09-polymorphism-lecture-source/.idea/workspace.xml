@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d6c6a8f-5dd1-49b1-8b92-f72fd575765c" name="Changes" comment="0520">
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/LoginRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/LoginRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/LoginService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/LoginService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07-object-array-lecture/src/main/java/com/eunah/question/UserDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/GoogleAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/GoogleAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/KakaoAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/KakaoAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/NaverAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/NaverAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/SnsAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/auth/SnsAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/dto/MemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/dto/MemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eunah/section04/understand/service/MemberService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +43,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/eunahpae/01_java.git&quot;,
-    &quot;accountId&quot;: &quot;4c171c42-961f-40b8-865d-062429b8600f&quot;
+    &quot;accountId&quot;: &quot;8d8a4678-1b03-4fdc-9b62-354126d6207b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,7 +66,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/songpa_PAE/01_java/chap09-polymorphism-lecture-source&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pae_eunah/01_java/chap09-polymorphism-lecture-source&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -160,6 +171,8 @@
       <workItem from="1716171547364" duration="10639000" />
       <workItem from="1716185017635" duration="3811000" />
       <workItem from="1716247795521" duration="1203000" />
+      <workItem from="1716291063815" duration="280000" />
+      <workItem from="1716291348488" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="0520">
       <option name="closed" value="true" />

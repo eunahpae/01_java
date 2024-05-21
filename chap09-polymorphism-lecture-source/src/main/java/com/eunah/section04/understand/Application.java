@@ -1,6 +1,6 @@
 package main.java.com.eunah.section04.understand;
 
-import main.java.com.eunah.understand.dto.MemberDTO;
+import main.java.com.eunah.section04.understand.dto.MemberDTO;
 import main.java.com.eunah.section04.understand.service.MemberService;
 
 import java.util.Scanner;
@@ -31,7 +31,7 @@ public class Application {
 
             switch (no) {
                 case 1:
-                    memberService.findMember("google", memberDTO);
+                    memberService.findMember("google",memberDTO);
                     return;
                 case 2:
                     memberService.findMember("kakao", memberDTO);
