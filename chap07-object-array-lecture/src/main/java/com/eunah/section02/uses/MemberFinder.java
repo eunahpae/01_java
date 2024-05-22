@@ -5,4 +5,5 @@ public class MemberFinder {  // 멤버를 조회하겠다는 명령을 repo 에�
     public Member[] findAllMembers(){
         return MemberRepository.findAllMembers();
     }
+
 }
