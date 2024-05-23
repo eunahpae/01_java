@@ -1,0 +1,6 @@
+#jdbc Diver
+#Thu May 23 10:18:34 KST 2024
+driver=mysql.jdbc.driver.MysqlDriver
+pass=pass
+user=user
+url=localhost
