@@ -13,6 +13,5 @@ public class Application03 {
 
         System.out.println("프로그램 종료");
 
-
     }
 }

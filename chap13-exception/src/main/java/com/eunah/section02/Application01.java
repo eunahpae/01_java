@@ -17,7 +17,5 @@ public class Application01 {
         } catch (Exception e) {
             e.printStackTrace();
         }
-
-
     }
 }

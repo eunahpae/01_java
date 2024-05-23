@@ -3,7 +3,6 @@ package main.java.com.eunah.section01.exception;
 public class Application02 {
     public static void main(String[] args) {
 
-
         ExceptionTest et = new ExceptionTest();
 
         try {
